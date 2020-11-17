@@ -1,0 +1,10 @@
+language: Snakemake
+name: sequana_merge_flowcells
+description: Merge FastQ from different projects (flowcells) into single project
+url: https://github.com/sequana/sequana_merge_flowcells/blob/master/sequana_pipelines/merge_flowcells/merge_flowcells.rules
+categories: [NGS, snakemake, sequana]
+authors:
+    - firstname: Thomas
+      lastname: Cokelaer
+      email: thomas.cokelaer@pasteur.fr
+
